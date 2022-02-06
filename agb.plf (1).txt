@@ -1,0 +1,419 @@
+
+
+| Legal Software UG (haftungsbeschränkt)
+| Feilitzschstraße 7
+| 80802 München
+
+- Amtsgericht München, HRB 268624 -
+
+vertr. d. d. Geschäftsführer Herrn Maximilian Pschiebel
+
+- nachfolgend „Legal Software“ -
+
+Die von Legal Software angebotenen Produkte richten sich an Unternehmer mit Wohn- oder Geschäftssitz in der
+Bundesrepublik Deutschland.
+
+# Wirksamkeit der Nutzungsbedingungen / Vertragsschluss
+
+Diese AGB wurden am 16.08.2021 erstellt. An diesem Tag erhalten sie auch ihre Wirksamkeit.
+
+§ Dienste und Produkte
+
+() Legal Software stellt unentgeltliche sowie entgeltliche SaaS-Dienste und sonstige digitale Produkte (nachfolgend „Produkte“)
+auf der Grundlage der nachfolgenden Allgemeinen Nutzungsbedingungen zur Verfügung (nachfolgend "Nutzungsbedingungen").
+
+() Diese Nutzungsbedingungen finden auf alle Nutzungsverträge (nachfolgend „Verträge“) Anwendung, die zwischen Legal
+Software und Benutzern geschlossen werden. Abweichende Nutzungsbedingungen finden auf die Verträge keine Anwendung. 
+Etwas anderes gilt nur, falls Legal Software den abweichenden Nutzungsbedingungen ausdrücklich in schriftlicher Form zustimmt.
+
+() Bei Benutzung einzelner spezifischer Produkte von Legal Software können besondere oder modifizierte Bestimmungen zur
+Anwendung kommen. Der Benutzer wird vor Nutzung der betreffenden Dienste und Produkte hierauf hingewiesen. 
+Bei Abweichungen gelten die besonderen Bestimmungen vorrangig.
+
+§ Vertragsabschluss
+
+() Das Angebot auf den von Legal Software betriebenen Webseiten, die dort bezeichnete und bereitgestellte Software zu nutzen,
+stellt kein verbindliches Angebot von Legal Software dar.
+
+() Die Nutzung der Software von Legal Software setzt die Erstellung eines Benutzeraccounts voraus. Zur Erstellung des
+Benutzeraccounts sind die verlangten Daten anzugeben. Ferner hat der Benutzer ein Passwort festzulegen. Durch 
+Ankreuzen der Checkbox "Ich habe die Nutzungsbedingungen und Datenschutzerklärung gelesen und akzeptiere sie"
+gibt der Benutzer ein verbindliches Angebot zum Vertragsabschluss ab. Legal Software kann dieses Angebot annehmen. 
+Nach Vertragsschluss erhält der Benutzer die Gelegenheit, die jeweiligen unentgeltlichen und entgeltlichen Dienste zu nutzen. 
+Legal Software schaltet dem Benutzer hierzu sein Zugangskonto frei.
+
+() Bei Buchung entgeltlicher Produkte im Namen einer anderen natürlichen oder juristischen Person sichert der Benutzer zu,
+dass er zur Bindung der Person an diese Nutzungsbedingungen berechtigt ist.
+
+§ Nichtberechtigte
+
+() Verbraucher im Sinne des § 13 BGB, Geschäftsunfähige sowie beschränkt Geschäftsfähige sind nicht berechtigt, die Produkte
+von Legal Software zu nutzen und die Nutzungsbedingungen anzunehmen. Das gilt auch für Personen, die nach den gesetzlichen
+Bestimmungen ihres Landes, einschließlich des Landes, in dem sie ansässig sind oder von dem aus sie die Produkte nutzen, 
+von der Inanspruchnahme ausgeschlossen sind.
+
+§ Pflicht zu wahrheitsgemäßen Angaben
+
+() Der Benutzer ist dazu verpflichtet, im Rahmen des Anmeldevorgangs sowie während der fortlaufenden Nutzung wahrheitsgemäße
+Angaben zu seiner Person und seinem Unternehmen zu machen. Das betrifft insbesondere Identifikations- und Kontaktdaten 
+sowie des Benutzers sowie seine Unternehmereigenschaft im Sinne des § 14 BGB.
+
+() Im Fall von Zuwiderhandlungen ist der Benutzer zum Ersatz des Legal Software hierdurch entstandenen Schadens verpflichtet.
+
+# Leistungspflichten von Legal Software
+
+§ Nutzungsmöglichkeit und -berechtigung
+
+() Die Produkte von Legal Software werden dem Benutzer grundsätzlich über das Internet zur Verfügung gestellt. Der Benutzer
+erhält die technische Möglichkeit und Berechtigung, die Dienste und Produkte entsprechend dieser Bedingungen zu nutzen. 
+Die ordnungsgemäße Beschaffenheit der Dienste und Produkte richtet sich nach den allgemeinen Systemvoraussetzungen sowie 
+die in der Produktbeschreibung spezifizierten Leistungen.
+
+() Legal Software behält sich das Recht vor, Vertragskonditionen und diese Nutzungsbedingungen während der Vertragslaufzeit
+zu ändern oder zu ergänzen. Der Benutzer wird auf etwaige Änderungen oder Ergänzungen gesondert mit zweiwöchiger Frist 
+vor Wirksamwerden der Änderungen oder Ergänzungen hingewiesen.
+
+§ Nutzung der SaaS-Dienste
+
+() Die SaaS-Dienste von Legal Software werden mithilfe eines aktuellen Internet-Browsers genutzt. Internet-Browser haben
+unterschiedliche technische Standards. Daher kann es zu Differenzen im Erscheinungsbild oder der Funktionalität 
+der SaaS-Dienste kommen.
+
+() Im Rahmen der SaaS-Dienste speichert und sichert Legal Software die Daten des Benutzers. Legal Software verschlüsselt
+den Zugriff auf die Daten des Benutzers, die Datenübertragung und die Datenverarbeitung.
+
+() Legal Software übernimmt die Wartung und Pflege der technischen Infrastruktur, die zur Inanspruchnahme der SaaS-Dienste
+erforderlich ist. Die weitere Bedienung der SaaS-Dienste unterliegt der Verantwortung des Benutzers.
+
+() Legal Software gewährleistet eine 99-prozentige Verfügbarkeit der SaaS-Dienste im Jahresdurchschnitt. Hiervon ausgenommen
+sind routinemäßige, erforderliche und geplante Wartungs- und Instandsetzungsmaßnahmen. Ebenfalls ausgenommen sind 
+Zeiten, in denen die Server aufgrund technischer Probleme, die nicht im Einflussbereich von Legal Software liegen, 
+nicht zu erreichen ist. Die jederzeitige Verfügbarkeit wird ausdrücklich nicht garantiert.
+
+§ Bereitstellung und Benutzung unentgeltlicher Produkte
+
+() Die Bereitstellung unentgeltlicher Produkte durch Legal Software sowie die Benutzung unentgeltlicher Dienste und Produkte
+durch den Benutzer erfolgt ohne jeglichen Rechtsanspruch. Unentgeltliche Dienste und Produkte können jederzeit mit 
+zweiwöchiger Vorankündigung von Legal Software eingestellt werden. Aus der Einstellung ergeben sich keine Minderungs-, 
+Erstattungs- oder Schadensersatzansprüche des Benutzers.
+
+§ Weiterentwicklung der Produkte
+
+() Legal Software entwickelt die Produkte nach eigenem Ermessen fortwährend weiter. Die Form und Art der
+Produkte kann sich daher während der Vertragslaufzeit ändern. Der Benutzer erklärt sich mit Änderungsmöglichkeiten 
+in zumutbarem Umfang einverstanden. Zumutbare Änderungen des Angebots sind insbesondere, wenn
+
+    .) die Produkte Leistungen, Dienste oder Produkte anderer Hersteller enthalten und diese Produkte Legal
+    Software nicht, nicht mehr oder nur noch in geänderter Form zur Verfügung stehen, ohne dass dies auf Umstände
+    zurückzuführen ist, die Legal Software zu vertreten hat,
+
+    .) neue Gesetze oder behördliche Anforderungen eine Änderung notwendig machen,
+
+    .) die Produkte nicht mehr dem aktuellen Stand der Technik, den Sicherheitsbestimmungen oder dem
+    Datenschutz entsprechen oder ihre Funktionalität nicht oder nicht mehr gewährleistet ist, oder
+
+    .) Produkte ganz oder teilweise gegen gleich- oder höherwertige Produkte ausgetauscht werden, die Soll-Beschaffenheit
+    im Wesentlichen unverändert bleibt und die damit verbundene Leistungsänderung zumutbar ist.
+
+() Legal Software teilt dem Benutzer Leistungsänderungen, die nicht lediglich unerheblich sind, mindestens zwei Wochen
+vor Wirksamwerden in Textform mit. Unerheblich sind insbesondere Updates, die lediglich der Verbesserung und
+technischen Fortentwicklung der Services dienen, insbesondere Fehlerbehebungen und technisch verbesserte Funktionen.
+
+() Legal Software behält sich ferner vor, die Produkte zu ändern oder abweichende Funktionalitäten anzubieten,
+
+    .) soweit diese Änderung erforderlich ist, um die Übereinstimmung der von Legal Software
+    angebotenen Produkte mit dem anwendbaren Recht herzustellen, insbesondere bei Änderung der Rechtslage, oder
+
+    .) soweit Legal Software damit einer Gerichts- oder Behördenentscheidung nachkommt, oder
+
+    .) soweit dies zur Schließung von Sicherheitslücken erforderlich ist.
+
+§ Mängelgewährleistung
+
+() Legal Software gewährleistet, dass die Produkte den allgemeinen Branchenstandards entsprechen, sofern diese
+auf die Produkte anwendbar sind.
+
+() Bei mangelhafter Leistung seitens Legal Software wird Legal Software innerhalb einer angemessenen Frist und nach
+Zugang einer Mängelrüge die Leistungen nach Wahl des Benutzers nachbessern oder erneut erbringen.
+
+§ Verantwortungsbereich des Benutzers
+
+() Die Anbindung des Benutzers an das Internet, die Aufrechterhaltung der Netzwerkverbindung sowie die Beschaffung und
+Funktionalität der vom Benutzer genutzten Hard- und Software ist nicht Vertragsgegenstand.
+
+() Legal Software schuldet keine weiteren Leistungen, sofern nicht ausdrücklich etwas anderes vereinbart ist.
+Insbesondere ist Legal Software nicht zur Erbringung von Installations-, Beratungs-, Anpassungs- und Schulungsleistungen
+verpflichtet.
+
+# Pflichten des Benutzers
+
+§ Pflicht zur Entgeltzahlung
+
+() Der Benutzer ist zur Zahlung des vereinbarten Entgelts verpflichtet. Die für die Inanspruchnahme entgeltlicher
+Produkte anfallenden Entgelte berechnen sich nach den jeweils gültigen Preisen, einsehbar unter
+www.klauseldatenbank.com/pricing. Bei allen genannten Vergütungen und Preisen handelt es sich um Nettopreise zzgl.
+der jeweils geltenden gesetzlichen Umsatzsteuer. Die Umsatzsteuer wird gesondert bei der Rechnungsstellung aufgeführt.
+
+() Soweit nicht anders vereinbart, ist die Vergütung monatlich zu Beginn des Abrechnungszeitraums fällig. Der
+Abrechnungszeitraum beginnt mit dem Tag des Vertragsabschlusses zur kostenpflichtigen Nutzung der jeweiligen
+Produkte und endet nach Ablauf eines Monats.
+
+() Bei jährlicher Abrechnung beginnt der Abrechnungszeitraum mit dem Tag des Vertragsabschlusses und endet nach
+Ablauf eines Jahres. Soweit nicht anders vereinbart, ist die Vergütung bei jährlicher Abrechnung zu Beginn des
+Abrechnungszeitraums fällig.
+
+§ Zahlungsverzug des Benutzers
+
+() Befindet sich der Benutzer in Zahlungsverzug, so kann Legal Software die Bereitstellung von Produkten nach einwöchiger
+Fristsetzung beenden und den Benutzerzugang sperren. Der Benutzer bleibt weiterhin zur Zahlung der monatlichen Vergütung
+verpflichtet. Legal Software behält sich die Geltendmachung sonstiger Ansprüche aufgrund des Zahlungsverzugs vor.
+
+§ Pflicht zur vertragsgemäßen Benutzung
+
+() Der Benutzer verpflichtet sich, die Produkte von Legal Software ausschließlich vertragsgemäß und im Rahmen der
+anwendbaren gesetzlichen Vorschriften zu benutzen.
+
+() Der Benutzer verpflichtet sich, Funktionalitäten mit unbegrenztem Nutzungsumfang ausschließlich in angemessenem Umfang
+zu nutzen, insbesondere um die Funktionsfähigkeit und Wirtschaftlichkeit der bereitgestellten Produkte zu gewährleisten.
+Auch eine wesensfremde Benutzung stellt eine unangemessene Benutzung dar.
+
+() Legal Software behält sich das Recht vor, bei wiederholtem Verstoß die Funktionalität der Produkte quantitativ
+einzuschränken, nachdem Legal Software den Benutzer hierauf hingewiesen hat.
+
+§ Pflicht zur Geheimhaltung der Kontozugangsdaten
+
+() Der Benutzer ist für sämtliche Aktivitäten im Rahmen seiner Benutzerkonten verantwortlich. Der Benutzer hat
+seine Verbindungskennung geheim zu halten, vor dem Zugriff durch Unberechtigte zu schützen und den ordnungsgemäßen
+Gebrauch sicherzustellen.
+
+() Der Benutzer haftet für jeglichen auftretenden Missbrauch der Benutzung seines Zugangs und trägt alle anfallenden
+Kosten einer unberechtigten Nutzung. Dabei hat der Benutzer auch sämtliche Aufwendungen zu erstatten, die Legal Software
+infolge des Missbrauchs des Benutzerzugangs entstanden sind.
+
+() Ermöglicht der Benutzer sonst schuldhaft Dritten die Nutzung der Produkte von Legal Software, so hat er Legal Software
+Schadensersatz zu leisten. Der Schadensersatz ist mindestens in der Höhe zu leisten, die im Falle eines
+Vertragsabschlusses mit dem / den Dritten angefallen wäre, zuzüglich der Aufwendungen, die Legal Software
+infolge der Pflichtverletzung entstanden sind.
+
+() Der Benutzer hat Legal Software unverzüglich jede unbefugte Nutzung des Benutzerzugangs oder andere ihm bekannt
+gewordene oder vermutete Missbräuche des Benutzerzugangs anzuzeigen.
+
+§ Mitwirkungspflichten
+
+() Die nachfolgenden Mitwirkungspflichten des Benutzers sind Hauptleistungspflichten. Sie sind
+ausdrücklich weder Nebenpflichten noch Obliegenheiten.
+
+() Der Benutzer ist verpflichtet, sachdienliche Mitwirkungsleistungen nach Aufforderung durch Legal Software
+unverzüglich und unentgeltlich vorzunehmen, sofern die erforderlichen Maßnahmen einen angemessenen Aufwand
+nicht übersteigen.
+
+() Der Benutzer hat Mängel Legal Software unverzüglich anzuzeigen.
+
+# Vertragslaufzeit / Kündigung
+
+§ Entgeltliches Vertragsverhältnis
+
+Nach Ablauf der kostenfreien Testphase beginnt ein entgeltliches Vertragsverhältnis mit Legal Software. Während der
+Vertragslaufzeit kann der Benutzer nach Absprache mit Legal Software jederzeit zusätzliche kostenpflichtige Erweiterungen
+(z.B. weitere Produkte oder Benutzer), Ergänzungsprodukte oder sonstige Ressourcen hinzu- und abbuchen.
+
+§ Ende des Vertragsverhältnisses
+
+Das Vertragsverhältnis endet nach wirksamer Kündigung. Die Kündigung ist jederzeit bis zum Ende des jeweiligen
+Abrechnungszeitraums möglich und sofort wirksam. Die Kündigung kann in Textform oder durch Klick auf den Button
+„Abonnement kündigen“ und anschließende Bestätigung erfolgen.
+
+§ Außerordentliche Kündigung
+
+() Legal Software hat das Recht, den Vertrag aus wichtigem Grund außerordentlich zu kündigen. Ein wichtiger Grund liegt
+insbesondere vor, wenn
+
+    .) der Benutzer gegen wesentliche Verpflichtungen oder wiederholt gegen unwesentliche Verpflichtungen aus dem
+    Vertrag verstößt und die Störung auch nach Abmahnung durch Legal Software nicht binnen angemessener Frist beseitigt; oder
+
+    .) über das Vermögen des Benutzers das Insolvenzverfahren eröffnet worden ist, die Eröffnung unmittelbar bevorsteht
+    oder die Verfahrenseröffnung mangels Masse abgelehnt wurde; oder
+
+    .) der Benutzer gegen Bestimmungen dieser Nutzungsbedingungen verstoßen hat oder sein Verhalten mit Sicherheit darauf
+    schließen lässt, dass er nicht willens oder in der Lage ist, die Nutzungsbedingungen einzuhalten.
+
+§ Abwicklung des Vertragsverhältnisses
+
+() Nach Beendigung des Vertragsverhältnisses sind die Vertragspartner verpflichtet, das Vertragsverhältnis ordnungsgemäß
+abzuwickeln. Soweit nicht anders vereinbart, darf Legal Software nach Ablauf von 30 Tagen nach Beendigung des
+Vertragsverhältnisses sämtliche Benutzerdaten endgültig löschen.
+
+# Kommunikation mit dem Benutzer
+
+§ Ansprechpartner
+
+() Der Benutzer steht Legal Software als Ansprechpartner während der Vertragslaufzeit zur Verfügung.
+
+() Der Benutzer gilt Legal Software gegenüber als berechtigt, rechtsverbindliche Erklärungen abzugeben.
+
+§ Kommunikation per E-Mail
+
+() Der Benutzer erklärt sich ausdrücklich damit einverstanden, dass ihm Informationen hinsichtlich Vertragsverhandlungen,
+bestehender Verträge sowie zur Vertragsdurchführung und Abrechnung per E-Mail an die vom Benutzer mitgeteilte
+E-Mail-Adresse gesendet werden können.
+
+§ Elektronische Rechnungsstellung
+
+() Die Rechnungsstellung erfolgt elektronisch an die vom Benutzer angegebene E-Mail-Adresse. Zusätzlich wird dem
+Benutzer eine Rechnung von Legal Software in elektronischer Form in seinem Profil zum jederzeitigen Abruf
+bereitgestellt.
+
+§ Verrechnung von Entgelt
+
+() Etwaige Gutschriften oder Rückerstattungsbeträge wegen zu viel gezahlten Entgelts werden mit der nächstfälligen
+Abrechnung verrechnet, sofern nichts anders vereinbart.
+
+§ Einwendungen gegen Rechnungen
+
+() Der Benutzer hat Einwendungen gegen die jeweilige Rechnung innerhalb von acht Wochen ab Rechnungszugang jedenfalls
+in Textform gegenüber Legal Software anzuzeigen. Das Unterlassen rechtzeitiger Einwendungen gilt als Genehmigung.
+
+§ Verbot der Aufrechnung, Ausschluss von Zurückbehaltungsrechten
+
+() Der Benutzer ist nicht berechtigt, mit etwaigen Forderungen gegenüber Legal Software aufzurechnen. Die Geltendmachung
+von Zurückbehaltungsrechten ist ebenfalls ausgeschlossen.
+
+§ Zustimmungsvorbehalt der Forderungsabtretung
+
+() Der Benutzer ist nur mit Zustimmung von Legal Software zur Abtretung von Forderungen aus diesem Vertrag berechtigt
+
+# Haftung
+
+§ Haftung
+
+() Legal Software, leitende Angestellte, Mitarbeiter, die gesetzlichen Vertreter sowie sonstige Erfüllungsgehilfen
+haften, sofern nicht anders vereinbart, wie folgt:
+
+    .) Legal Software haftet für vorsätzlich und grob fahrlässig verursachte Schäden, Ansprüche nach dem
+    Produkthaftungsgesetz sowie bei einer Verletzung des Lebens, des Körpers oder der Gesundheit nach den gesetzlichen
+    Bestimmungen.
+
+    .) Bei Schäden, die auf einfacher Fahrlässigkeit von Legal Software, den gesetzlichen Vertretern und den
+    Erfüllungsgehilfen beruhen, haftet Legal Software nur, wenn eine wesentliche Vertragspflicht verletzt wurde oder
+    ein Fall des Verzuges oder der Unmöglichkeit vorliegt. In diesem Fall ist die Haftung je Schadensereignis auf
+    einen Höchstbetrag der jährlichen Entgeltzahlung zum Zeitpunkt des schadensverursachenden Ereignisses begrenzt.
+
+    .) Bei unentgeltlichen Produkten haftet Legal Software nur für Schäden, die auf Vorsatz, grober Fahrlässigkeit sowie
+    Arglist beruhen. Diese Haftungsbeschränkung gilt nicht für Schäden aus der Verletzung von Leben, Körper oder Gesundheit.
+    Dafür haftet Legal Software uneingeschränkt. Das gilt entsprechend während des unentgeltlichen Testzeitraums
+    des Benutzers.
+
+§ Fehlerfreiheit der Produkte
+
+() Legal Software übernimmt weiter keine Haftung für die Fehlerfreiheit der Produkte. Insbesondere übernimmt Legal
+Software keine Gewährleistung, dass die Produkte mit dritten, externen Programmen zusammenarbeiten, soweit dies
+nicht ausdrücklich in der Produktbeschreibung vorgesehen ist.
+
+§ Mangelfolgeschäden
+
+() Eine Haftung für mittelbare Schäden, Folgeschäden oder entgangenen Gewinn wird ausgeschlossen.
+
+# Urheberrechte, Lizenzgewährung, Informationen des Benutzers
+
+§ Urheberrecht
+
+() Sämtliche Inhalte der Internetseiten, Produkte, Newsletter, Software und Dokumentationen sowie Technologien
+von Legal Software („Inhalte“) unterliegen allein dem Urheberrecht von Legal Software, unabhängig einer etwaigen
+Eintragung gewerblicher Schutzrechte bzw. geistiger Eigentumsrechte. Legal Software behält sich alle nicht
+ausdrücklich gewährten Rechte vor.
+
+() Der Benutzer hat nicht das Recht, Markennamen, Marken, Logos, Domain-Namen und andere charakteristische Zeichen
+von Legal Software ohne vorherige Zustimmung von Legal Software zu nutzen.
+
+§ Lizenzgewährung
+
+() Dem Benutzer wird lediglich ein nicht-ausschließliches, einfaches, nicht übertragbares und zeitlich auf die
+Vertragslaufzeit begrenztes Recht zur vertragsgemäßen Benutzung der Produkte eingeräumt.
+
+() Bei Produktweiterentwicklungen gilt die Lizenzeinräumung grundsätzlich fort, es sei denn, Legal Software fügt diesen
+Weiterentwicklungen ergänzende Regelungen bei. Der Benutzer wird mit einer mindestens zweiwöchigen Frist hierauf
+hingewiesen.
+
+§ Ideen, Anfragen, Feedbacks, Empfehlungen oder andere Informationen des Benutzers
+
+() Sämtliche Ideen, Anfragen, Feedbacks, Empfehlungen oder andere Informationen des Benutzers erfolgen unentgeltlich.
+Der Benutzer räumt Legal Software unwiderruflich das uneingeschränkte Nutzungs- und Verwertungsrecht hieran ein.
+
+# Datenschutz
+
+§ Beiderseitige Beachtung der Datenschutzbestimmungen
+
+() Beide Vertragspartner beachten die jeweils anwendbaren datenschutzrechtlichen Bestimmungen beachten und
+ihre im Zusammenhang mit dem Vertrag eingesetzten Beschäftigten auf das Datengeheimnis nach § 5 BDSG verpflichten,
+soweit diese nicht bereits allgemein entsprechend verpflichtet sind. Weitergehende gesetzliche und standesrechtliche
+Geheimhaltungs- und Verschwiegenheitspflichten bleiben unberührt.
+
+() Beide Vertragspartner werden die Bestimmungen, die für die Auftragsdatenverarbeitung und für das Rechenzentrum
+anwendbar sind, beachten und werden die erforderlichen technischen und organisatorischen Maßnahmen zum Schutz von
+personenbezogenen Daten im Sinne des Bundesdatenschutzgesetzes, insbesondere gemäß der Anlage zu § 9 BDSG, treffen.
+
+§ Übermittlung vertraulicher Informationen
+
+() Beide Vertragspartner sind nicht dazu berechtigt, vertrauliche Informationen der jeweils anderen Partei ohne
+ausdrückliche vorherige Zustimmung mindestens in Textform an Dritte zu übermitteln. Diese Regelung gilt sowohl für
+Verträge über unentgeltliche wie auch entgeltliche Produkte. Dazu gehören insbesondere Informationen, die
+
+    .) notwendigerweise bereits objektiv als vertraulich oder geheimhaltungsbedürftig gelten oder
+
+    .) die subjektiv derjenige Vertragspartner, dem die Informationen übermitteln werden, aufgrund der Bedeutung der
+    Informationen oder der Umstände der Übermittlung als vertraulich oder geheimhaltungsbedürftig erkennen muss.
+
+() Beide Vertragspartner verwenden und übermitteln vertrauliche Informationen nur zu vertraglich vereinbarten Zwecken.
+Beide Vertragspartner wenden dabei jedenfalls diejenige Sorgfalt an, wie sie auch hinsichtlich vertraulicher
+Informationen in eigenen Angelegenheiten angewendet wird. Diese Sorgfaltsmaßnahmen müssen objektiv auch jedenfalls
+geeignet sein, um die Weitergabe an unbefugte Dritte zu verhindern.
+
+() Die Verpflichtung zur Vertraulichkeit bleibt auch über die Dauer des Vertrags hinaus bis zwölf Monate nach
+Vertragsende bestehen.
+
+§ Datenverarbeitung durch Legal Software
+
+() Legal Software erhebt und verwendet die personenbezogenen Daten des Benutzers nur im Rahmen der jeweils geltenden
+gesetzlichen Bestimmungen.
+
+() Handelt es sich bei den zu verarbeitenden Daten um personenbezogene Daten (Art. 4 Nr. 1 DSGVO), liegt eine
+Auftragsdatenverarbeitung durch Legal Software vor. Legal Software wird Weisungen des Benutzers, insbesondere
+zur Einhaltung von Löschungs- und Sperrungspflichten, beachten. Der Benutzer muss Legal Software diese Weisungen
+rechtzeitig in schriftlicher Form mitzuteilen. Legal Software bietet dem Benutzer den Abschluss einer Vereinbarung zur
+Auftragsverarbeitung entsprechend der Anforderungen des Art. 28 DSGVO an.
+
+() Der Benutzer bleibt gemäß den datenschutzrechtlichen Bestimmungen die verantwortliche Stelle.
+
+§ Datenverarbeitung durch den Benutzer
+
+() Erhebt, verarbeitet oder nutzt der Benutzer selbst oder durch Legal Software personenbezogene Daten, so sichert der
+Benutzer zu, dass er dazu nach den anwendbaren gesetzlichen und datenschutzrechtlichen Bestimmungen berechtigt ist.
+Im Falle eines Verstoßes stellt der Benutzer Legal Software von Ansprüchen Dritter frei.
+
+# Schlussbestimmungen
+
+§ Vollständigkeit, Textform
+
+() Die Nutzungsbedingungen stellen die gesamte Vereinbarung zwischen dem Benutzer und Legal Software dar.
+Die Nutzungsbedingungen ersetzen sämtliche früheren Vereinbarungen.
+
+() Etwaige Nebenabreden, Ergänzungen, Abänderungen und die Aufhebung dieser Nutzungsbedingungen bedürfen zu ihrer
+Wirksamkeit der Textform. Dies gilt auch für die Abbedingung des Textformerfordernisses.
+
+§ Salvatorische Klausel
+
+() Sollten einzelne Bestimmungen der Nutzungsbedingungen unwirksam sein oder werden, so bleiben die Nutzungsbedingungen
+im Übrigen wirksam. Für die unwirksamen Bestimmungen gelten sodann die gesetzlichen Regelungen unter Beachtung des mit
+der unwirksamen Bestimmung angestrebten wirtschaftlichen Erfolges. Gleiches gilt für etwaige Vereinbarungslücken.
+
+§ Anwendbares Recht, Gerichtsstand
+
+() Diese Nutzungsbedingungen und das Vertragsverhältnis zwischen Legal Software und dem Benutzer unterliegen
+ausschließlich deutschem Recht unter ausdrücklichem Ausschluss des UN-Kaufrechts. Der Benutzer stimmt zu,
+dass es Legal Software gestattet ist, Unterlassungs- oder Beseitigungsansprüche durch einstweiligen Rechtsschutz
+auch in anderen Rechtsordnungen geltend zu machen.
+
+() Für sämtliche Streitigkeiten aus dem Vertragsverhältnis zwischen Legal Software und dem Benutzer oder in
+Zusammenhang mit diesem ist, soweit rechtlich zulässig, ausschließlich das Gericht des Erfüllungsorts zuständig.
+Erfüllungsort ist der Sitz von Legal Software.
+
