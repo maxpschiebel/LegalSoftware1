@@ -417,3 +417,6 @@ auch in anderen Rechtsordnungen geltend zu machen.
 Zusammenhang mit diesem ist, soweit rechtlich zulässig, ausschließlich das Gericht des Erfüllungsorts zuständig.
 Erfüllungsort ist der Sitz von Legal Software.
 
+§ Zusätzliche Klausel
+
+() Am Ende noch eine zusötzliche Klausel eingefügt.
