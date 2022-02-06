@@ -10,7 +10,7 @@ vertr. d. d. Geschäftsführer Herrn Maximilian Pschiebel
 
 - nachfolgend „Legal Software“ -
 
-Die von Legal Software angebotenen Produkte richten sich an Unternehmer mit Wohn- oder Geschäftssitz in der
+Die von Legal Software angebotenen Produkte richten sich an juristische Personen mit Wohn- oder Geschäftssitz in der
 Bundesrepublik Deutschland.
 
 # Wirksamkeit der Nutzungsbedingungen / Vertragsschluss
@@ -409,9 +409,7 @@ der unwirksamen Bestimmung angestrebten wirtschaftlichen Erfolges. Gleiches gilt
 § Anwendbares Recht, Gerichtsstand
 
 () Diese Nutzungsbedingungen und das Vertragsverhältnis zwischen Legal Software und dem Benutzer unterliegen
-ausschließlich deutschem Recht unter ausdrücklichem Ausschluss des UN-Kaufrechts. Der Benutzer stimmt zu,
-dass es Legal Software gestattet ist, Unterlassungs- oder Beseitigungsansprüche durch einstweiligen Rechtsschutz
-auch in anderen Rechtsordnungen geltend zu machen.
+ausschließlich deutschem Recht unter ausdrücklichem Ausschluss des UN-Kaufrechts.
 
 () Für sämtliche Streitigkeiten aus dem Vertragsverhältnis zwischen Legal Software und dem Benutzer oder in
 Zusammenhang mit diesem ist, soweit rechtlich zulässig, ausschließlich das Gericht des Erfüllungsorts zuständig.
